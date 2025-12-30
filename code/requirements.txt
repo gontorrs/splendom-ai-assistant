@@ -1,0 +1,13 @@
+json5
+groq
+scikit-learn
+cupy
+spacy
+pandas
+spacy-transformers
+matplotlib
+seaborn
+ipywidgets
+python-docx
+pandas
+openpyxl
