@@ -1,10 +1,10 @@
 ## Disclaimer
 
-Please note that the code provided in this repository is not the actual production version due to strict confidentiality and data privacy protocols. The files included are dummy versions designed to protect proprietary information while maintaining the exact system structure and logic flow described in the project documentation. For further technical details regarding the architecture, data engineering, and performance results, please consult the full report available as a PDF in the docs folder.
+Please note that the code provided in this repository is not the actual production version due to strict confidentiality and data privacy protocols. The files included are dummy versions designed to protect proprietary information while maintaining the exact system structure and logic flow described in the project documentation. For further technical details regarding the architecture, data engineering, and performance results, please consult the full report available as a PDF in the docs folder or contact me at gttechtomorrow@gmail.com.
 
-# Real Estate Assistant Chatbot - Splendom Suites Group
+# Real Estate Assistant Chatbot - [Splendom Suites Group](https://www.splendomsuites.com/)
 
-This repository contains the engineering documentation and architecture for the Splendom Suites intelligent virtual assistant as shown in the image below. The project focuses on automating B2B queries for corporate housing and executive stays in major European cities like Vienna, Madrid, and Barcelona.
+This repository contains the engineering documentation and architecture for the Splendom Suites intelligent virtual assistant as shown in the image below. The project focuses on automating B2B queries for corporate housing and executive stays in major European cities like Vienna, Madrid, and Barcelona. This chatbot is made for internal use only within the Splendom Suites environment and is not intended for public deployment.
 
 ![Splendom Chatbot User Interface](docs/splendom-chatbot.png)
 
@@ -69,3 +69,4 @@ Validation tests on the modular architecture show significant improvements in re
 ## Author
 
 * Gonzalo Torras Serrano - AI Engineering and Systems Development for Splendom Suites Group.
+
